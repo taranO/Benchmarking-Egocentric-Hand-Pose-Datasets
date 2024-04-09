@@ -1,1 +1,1 @@
-# Benchmarking-Egocentric-Hand-Pose-Datasets
+# Benchmarking Egocentric Hand Pose Datasets
